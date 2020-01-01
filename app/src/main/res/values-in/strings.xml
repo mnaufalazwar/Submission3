@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Katalog Film</string>
+    <string name="movie_title">Judul</string>
+    <string name="movie_desc">Deskripsi</string>
+    <string name="tag_movies">Film</string>
+    <string name="tag_tv_shows">Serial TV</string>
+    <string name="change_language_settings">Ubah Bahasa</string>
+    <string name="navigation_drawer_open">Buka navigation drawer</string>
+    <string name="navigation_drawer_close">Tutup navigation drawer</string>
+    <string name="nav_header_title">Katalog</string>
+    <string name="nav_header_subtitle">Film dan Serial TV</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ubah Bahasa</string>
+
+    <string name="overview">Ringkasan</string>
+    <string name="release_date">Tanggal keluar</string>
+    <string name="rating">Penilaian</string>
+</resources>

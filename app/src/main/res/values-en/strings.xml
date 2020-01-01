@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <string name="app_name">Movie Catalogue</string>
+    <string name="movie_title">Title</string>
+    <string name="movie_desc">Description</string>
+    <string name="tag_movies">Movies</string>
+    <string name="tag_tv_shows">TV Shows</string>
+    <string name="change_language_settings">Change language</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Catalogue</string>
+    <string name="nav_header_subtitle">Movie and TV Show</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Change Language</string>
+
+    <string name="overview">Overview</string>
+    <string name="release_date">Release date</string>
+    <string name="rating">Rating</string>
+</resources>
